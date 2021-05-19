@@ -1,0 +1,54 @@
+body{
+    margin: 0px 0px;
+    padding: 0px;
+    background-color:#8A91B4;
+    text-align: center;
+}
+.xyz{
+    margin: 20px 800px;
+    padding: 10px;
+    background-color:#8992c2;
+    text-align: center;
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 89, 89);
+    display: block;
+    font-size: 1em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+
+    display: block;
+    font-size: 1em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.finalsoln{
+  margin: 50px 400px;
+  padding: 20px;
+  background-color: rgb(170, 247, 250);
+  font-size: xx-large;
+  color: rgb(108, 161, 87);
+  border: 2px solid black;
+  
+
+}
+.form-control{
+    margin-right: 20px;
+}
+
+p{
+    display: inline;
+    
+}
